@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there - Technical Platform - Data Platform👋
 
 <!--
 **Eddie3010/eddie3010** is a ✨ Data Scientist - Data Analyst - Business Intelligence - AI Prompting Engineer - Technical Business Analyst - Business Intelligence and ERP Technical Consultant✨ repository because its `README.md` (this file) appears on your GitHub profile.
