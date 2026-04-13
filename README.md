@@ -1,8 +1,8 @@
 # Hi there, I'm Eddie 👋 
 **AI & ML Product Manager | Data Science & Platform | Enterprise AI**
 
-![Profile Views](https://www.linkedin.com/in/eddie-le-79920926a/)
-![My Product Portfolio](https://eddie-ai-ml-product-portfolio.netlify.app/)
+[Profile Views](https://www.linkedin.com/in/eddie-le-79920926a/)<br>
+[My Product Portfolio](https://eddie-ai-ml-product-portfolio.netlify.app/)
 
 I am an **AI & ML Product Manager** with **2+ years of product ownership** and **4+ years in AI/ML analytics, BI, and enterprise systems**. I bring an end-to-end perspective—bridging the gap between raw data, machine learning models, and real-world business impact.
 
